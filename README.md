@@ -1,4 +1,4 @@
-# Responsive-Profile-Cards-With-Hover-Effect
+# Responsive Profile Cards With Hover Effect
 
 ![](RC%201.png)
 
